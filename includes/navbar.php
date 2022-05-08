@@ -15,7 +15,7 @@
                         Menu
                     </a>
                     <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-                        <li><a class="dropdown-item" href="historia.php">História</a></li>
+                        <li><a class="dropdown-item" href="">História</a></li>
                         <li><a class="dropdown-item" href="missao.php">Missão</a></li>
                         <li><a class="dropdown-item" href="visao.php">Visão</a></li>
                         <li><a class="dropdown-item" href="valores.php">Valores</a></li>
@@ -24,13 +24,13 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="historia.php">Quem somos</a>
+                    <a class="nav-link" href="quemsomos.php">Quem somos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="visao.php">Clientes</a>
+                    <a class="nav-link" href="clientes.php">Clientes</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="missao.php">Contato</a>
+                    <a class="nav-link" href="contato.php">Contato</a>
                 </li>
             </ul>
         </div>

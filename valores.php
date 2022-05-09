@@ -4,10 +4,10 @@ include "includes/head.php";
 include "includes/navbar.php";
 
 $image = '../img/valores.png';
-$texto = '<li>Respeito as individualidades<br>
-<li>Ética<br>
-<li>Comprometimento<br>
-<li>Equidade';
+$texto = 'Respeito as individualidades<br>
+Ética<br>
+Comprometimento<br>
+Equidade';
 
-include "includes/base.php";
+include "includes/submenu.php";
 include "includes/footer.php";

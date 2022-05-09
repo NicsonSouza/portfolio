@@ -19,7 +19,7 @@
                         <li><a class="dropdown-item" href="missao.php">Missão</a></li>
                         <li><a class="dropdown-item" href="visao.php">Visão</a></li>
                         <li><a class="dropdown-item" href="valores.php">Valores</a></li>
-                        <li><a class="dropdown-item" href="galeria.php">Galeria</a></li>
+                        <li><a class="dropdown-item" href="equipe.php">Equipe</a></li>
                     </ul>
                 </li>
 

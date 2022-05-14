@@ -1,4 +1,5 @@
 <?php
+const TITLE = "Visão";
 
 include "includes/head.php";
 include "includes/navbar.php";
